@@ -1,0 +1,7 @@
+
+Copy
+flask
+flask-sqlalchemy
+flask-jwt-extended
+python-dotenv
+werkzeug
